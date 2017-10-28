@@ -1,0 +1,33 @@
+{
+  "name": "lacanin-fusebox",
+  "version": "1.0.0",
+  "description": "lacanin with fusebox build",
+  "main": "fuse.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fuse-box": "^2.4.0",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {
+    "fuse-box": "^2.4.0",
+    "node-sass": "^4.5.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcubria/lacanin-fusebox.git"
+  },
+  "keywords": [
+    "lacan"
+  ],
+  "author": "fcubria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcubria/lacanin-fusebox/issues"
+  },
+  "homepage": "https://github.com/fcubria/lacanin-fusebox#readme"
+}
